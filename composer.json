@@ -1,5 +1,5 @@
 {
-    "name": "bjerke/laravel-bread",
+    "name": "mosbror/laravel-bread",
     "description": "A boilerplate package for BREAD operations through REST API in Laravel",
     "keywords": [
         "jesperbjerke",
